@@ -1,0 +1,6 @@
+annotated-types==0.7.0
+click==8.1.7
+pydantic==2.10.6
+pydantic-settings==2.6.1
+pytest==8.10.2
+python-dotenv==1.0.1
